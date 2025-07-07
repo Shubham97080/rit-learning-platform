@@ -29,3 +29,22 @@
   border-radius: 5px;
   cursor: pointer;
 }
+
+/* -------------------- Responsive Design -------------------- */
+@media (max-width: 600px) {
+  .login-container {
+    width: 90%;
+    margin: 30px auto;
+    padding: 20px;
+  }
+
+  .login-container input {
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  .login-container button {
+    padding: 8px;
+    font-size: 14px;
+  }
+}
