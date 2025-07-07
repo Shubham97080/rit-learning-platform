@@ -1,0 +1,35 @@
+# 📚 RIT Learning Platform
+
+An interactive quiz-based learning platform built with ReactJS, Firebase, and modern web technologies for students of Roorkee Institute of Technology.
+
+## 🚀 Features
+
+- 🔐 User Authentication (Firebase)
+- 🧠 Topic-based Quizzes (HTML, CSS, Java, Python)
+- 🏆 Leaderboard
+- 📊 Progress Tracking
+- 📄 Generate PDF Certificates (html2canvas + jsPDF)
+- 📺 Video-based Learning Modules
+
+## 🛠 Built With
+
+- ReactJS
+- Firebase
+- React Router
+- html2canvas + jsPDF
+- Custom CSS
+
+## 📦 Setup Instructions
+
+```bash
+git clone https://github.com/Shubham97080/rit-learning-platform.git
+cd rit-learning-platform
+npm install
+npm start
+🌐 Live Demo
+
+🔗 Click to View Live App
+
+🙌 Contributions
+
+Feel free to fork and submit pull requests. Let's build together.
